@@ -1,0 +1,157 @@
+{
+  "name": "TestTribeHackathon_Web_UiBank",
+  "projectId": "98059bd1-4bea-4c5c-9017-a0b2f2c72459",
+  "description": "A web automation solution to validate critical banking workflows in UiPath Bank, ensuring seamless and secure user experiences.",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Form.Activities": "24.10.5",
+    "UiPath.System.Activities": "25.2.4",
+    "UiPath.Testing.Activities": "[24.10.1]",
+    "UiPath.UIAutomation.Activities": "24.10.8"
+  },
+  "webServices": [],
+  "entitiesStores": [
+    {
+      "serviceDocument": ".entities/EntitiesStore.json",
+      "namespace": "TestTribeHackathon_Web_UiBank"
+    }
+  ],
+  "schemaVersion": "4.0",
+  "studioVersion": "25.0.161.0",
+  "projectVersion": "1.0.1",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "templateType": "ExecutionTemplate",
+        "fileName": ".templates\\TestFramework.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "ea61e77a-0489-493f-bd92-61d5531e40b6",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Verify Successful Login with Valid Credentials.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "e8dc7c05-258e-4ed0-ba08-c51901a72e87",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Validate Error Message for Invalid Credentials.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "7a82ab3c-5215-411f-af6e-aacc9033e1fb",
+        "dataVariationFilePath": ".variations\\LoanRequestDetails.json",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Successful Loan Submission.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "141b351b-041e-41ed-8982-ec7c20509176",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Rejected Loan Submission.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "e3757276-d32d-42db-8cc9-7f4be428606c",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "View Approved Loan Status.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "c1032cca-d5de-472e-8558-cb5c4f7a0256",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "View Denied Loan Status.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "176f54ad-68ce-4205-a0c2-cebe1277bd8f",
+        "dataVariationFilePath": ".variations\\TransferFund.json",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Transfer Funds Between Accounts.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "3785ac4e-cb64-408e-ab40-b593c1e953d7",
+        "dataVariationFilePath": ".variations\\Create Account.json",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Submit Application Form for Account.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "f6175f8d-d781-4d03-b389-cc23d88f9fdb",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Verify Logout Functionality.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "dd96622b-4aef-40d9-a0dc-c184bede590e",
+        "dataVariationFilePath": ".variations\\LoanRequestDetails.json",
+        "executionTemplatePath": ".templates\\TestFramework.xaml",
+        "testCaseType": "TestCase",
+        "executionTemplateType": "Local",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "Cross Functional testing Loan Application.xaml"
+      }
+    ],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

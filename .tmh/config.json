@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/testopsai_hackathon/defaulttenant/testmanager_/",
+  "defaultProject": {
+    "id": "4e415bc0-8659-0000-bbcd-0b482675342a",
+    "name": "Test Tribe Hackathon Web",
+    "key": "TTHW"
+  }
+}

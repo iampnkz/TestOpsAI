@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="d6uyAYGX6U-rFooEVKrNGg" Reference="s1MoC2P1Q0KyzfAXfpTRRQ/FRB_5jo3f0uqtQEpUJLQ9A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="b6b0c133-9f28-4c5a-ab4d-ec18fc8918f9" DesignTimeRectangle="578, 452, 763, 81" DesignTimeScaleFactor="1.5" ElementType="DropDown" FullSelectorArgument="&lt;webctrl id='term' tag='SELECT' name='term' type='number' /&gt;" Guid="b05431b8-40f5-4745-a841-7f9a3f19a321" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Loan Apply' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7133ccc7ce1b6e362d145de743e32e31.png" xmlns="">0OA5GGTxdRUW_BDwTlpFJ3w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

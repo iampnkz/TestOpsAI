@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="deMMeGhleUKig1K2ZlXHoA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/accounts" DesignTimeRectangle="1135, 337, 238, 48" DesignTimeScaleFactor="1.5" ElementType="Text" FullSelectorArgument="&lt;webctrl class='dropdown-item' tag='A' aaname='Loans' /&gt;" Guid="b0a4e1f2-2422-49df-ad14-584ba1d10de6" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank - Accounts' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="63e5687baa16b5fcdb939e756de95e05.png" xmlns="">04iyYqoRI3EiY7SfClXUYpQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

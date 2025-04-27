@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hVRLU8LulE201xQDL0pe1g" Reference="s1MoC2P1Q0KyzfAXfpTRRQ/xICVtJxgfk2im7ekIGUQtw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="b6b0c133-9f28-4c5a-ab4d-ec18fc8918f9" DesignTimeRectangle="578, 768, 763, 82" DesignTimeScaleFactor="1.5" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='email' tag='INPUT' type='email' class='form-control uibank-input ng-untouched ng-pristine ng-valid' placeholder='Enter email address' aaname='' /&gt;" Guid="9d0d48df-154b-4bab-8e3b-1d2a5ba957cf" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Loan Apply' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b6b0c133-9f28-4c5a-ab4d-ec18fc8918f9" CvElementArea="576, 389, 765, 84" CvType="InputBox" DesignTimeRectangle="578, 740, 228, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='uibank-label' aaname='Email Address of Requester' check:text='Email Address of Requester' /&gt;" Guid="0ae11c61-4a90-42f0-9128-ad473883f092" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c21f90a0e265316593aed65c9d39db05.png" xmlns="">0PFs8Am4Yc0y2DXKI7EF91g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,16 @@
+{
+  "dataVariationFileInfo": [
+    {
+      "filePath": ".variations\\Create Account.json",
+      "dataVariationType": "TestDataQueue"
+    },
+    {
+      "filePath": ".variations\\LoanRequestDetails.json",
+      "dataVariationType": "Entity"
+    },
+    {
+      "filePath": ".variations\\TransferFund.json",
+      "dataVariationType": "Entity"
+    }
+  ]
+}

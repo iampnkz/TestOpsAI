@@ -1,0 +1,16 @@
+﻿{
+  "Name": "UiBank Account",
+  "Type": "Screen",
+  "Id": "Wvtj73jVlEyqTd9HQ4ta0w",
+  "Reference": "s1MoC2P1Q0KyzfAXfpTRRQ/Wvtj73jVlEyqTd9HQ4ta0w",
+  "ParentRef": "s1MoC2P1Q0KyzfAXfpTRRQ/Jq6Ezt0OYkO2blA1HR21ag",
+  "Created": "2025-04-26T23:15:36.9074732Z",
+  "Updated": "2025-04-26T23:17:06.0636977Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
